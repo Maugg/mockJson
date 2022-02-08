@@ -143,7 +143,7 @@
       "hogwartsStudent": true,
       "hogwartsStaff": false,
       "actor": "Tom Felton",
-      "alive": true,
+      "alive": false,
       "image": "http://hp-api.herokuapp.com/images/draco.jpg"
     }
   ],
